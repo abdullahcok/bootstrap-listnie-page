@@ -1,2 +1,2 @@
 # bootstrap-listnie-page
-song/music page like soundcloud/spotify. react app gonna build soon.
+after boring, decided coding a song/music page like soundcloud/spotify. react app gonna be built soon.
