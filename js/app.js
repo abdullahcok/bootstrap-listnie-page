@@ -1,0 +1,35 @@
+$(document).ready(function(){
+  $('#top-songs').owlCarousel({
+    loop:true,
+    margin:10,
+    smartSpeed: 1000,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+$('#top-picks').owlCarousel({
+  loop:true,
+  margin:10,
+  smartSpeed: 1000,
+  nav:true,
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:3
+      },
+      1000:{
+          items:5
+      }
+  }
+});
